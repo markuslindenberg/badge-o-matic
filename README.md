@@ -1,4 +1,4 @@
-= badge-o-matic self service badge printer =
+# badge-o-matic self service badge printer
 
 This repository contains the source code for the badge printer as used at [FFRL Routing Days](https://routingdays.ffrl.net/)
 
